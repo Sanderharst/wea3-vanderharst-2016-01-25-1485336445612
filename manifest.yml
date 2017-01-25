@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: wea3-vanderharst-2016-01-25
+  host: wea3-vanderharst-2016-01-25
+  disk_quota: 1024M
